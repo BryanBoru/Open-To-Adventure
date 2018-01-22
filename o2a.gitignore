@@ -12,6 +12,7 @@ mods/*
 *.rar
 *.7z
 *.tgz
+*.gz
 
 *.log
 *.sig
