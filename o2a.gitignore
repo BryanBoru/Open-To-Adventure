@@ -4,16 +4,22 @@
 /jarmods
 mods/*
 
-# extra protection of adding other problematic file types
+# extra protection of accidentally adding other problematic file types
 *.exe
 *.msi
+
 *.zip
-*.tgz
-*.log
-*.log.*
-*.sig
+*.rar
 *.7z
+*.tgz
+
+*.log
+*.sig
+
 *.py
 
-#ignore cache files
-/minecraft/*json
+*.png
+*.jpg
+*.jpeg
+
+*json
