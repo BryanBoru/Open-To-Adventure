@@ -1,6 +1,10 @@
-*.tar
-*.tar.*
+# top issue to avoid is sharing copywritten code in files
+
 *.jar
+/jarmods
+mods/*
+
+# extra protection of adding other problematic file types
 *.exe
 *.msi
 *.zip
@@ -8,6 +12,8 @@
 *.log
 *.log.*
 *.sig
+*.7z
+*.py
 
-pkg/
-src/
+#ignore cache files
+/minecraft/*json
