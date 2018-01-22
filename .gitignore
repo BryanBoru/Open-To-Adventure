@@ -24,3 +24,8 @@ mods/*
 *.jpeg
 
 *.json
+.packignore
+minecraft/local/ftbutilities/all_permissions.html
+minecraft/local/ftbutilities/all_permissions_full_list.txt
+minecraft/saves/*
+
