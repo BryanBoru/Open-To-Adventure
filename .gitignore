@@ -1,6 +1,26 @@
-mmc-pack.json
-*.json
-minecraft/shaderpacks/Sildurs Vibrant Shaders v1.166 Medium.zip
+# top issue to avoid is sharing copywritten code in files
+
+*.jar
+/jarmods
+mods/*
+
+# extra protection of accidentally adding other problematic file types
+*.exe
+*.msi
+
 *.zip
-*.png
+*.rar
+*.7z
+*.tgz
+*.gz
+
+*.log
+*.sig
 *.mca
+*.py
+
+*.png
+*.jpg
+*.jpeg
+
+*.json
