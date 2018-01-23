@@ -1,9 +1,7 @@
 ﻿Open To Adventure
 A Minecraft 1.12.2 Modpack
 
-
 Change Log
-
 
 Version 0.2.0
 +TrashSlot 8.4.6
@@ -19,6 +17,7 @@ Version 0.2.0
 *Config adjustments to IndustrialCraft 2
 *Config adjustments to CoFH World Config
  --------------------------------------
+ 
 Version 0.1.1
 +B.A.S.E. Library 3.5.1
 +BiblioCraft 2.4.3
@@ -46,6 +45,7 @@ Version 0.1.1
 -MMD Ore Spawn
 *Adopted semantic version format
  --------------------------------------
+ 
 Version 0.0.11
 +Custom Backgrounds 1.1.1
 +Custom Main Menu 2.0.8.
