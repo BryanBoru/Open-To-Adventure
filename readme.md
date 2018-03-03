@@ -1,6 +1,6 @@
 ![title](https://i.gyazo.com/8ccd64269809315663b8b6e2aa3bddc1.png)
 
-Focused on exploration and enjoyment of those unique finds in the wilderness. This 1.12.2 Modpack of Minecraft focuses on Magic and adventuring tools, butalso allows for some tech experimentation.
+Focused on exploration and enjoyment of those unique finds in the wilderness. This 1.12.2 Modpack of Minecraft focuses on Magic and adventuring tools, also allows for some tech experimentation.
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 * [Java 8](https://www.java.com/en/download/manual.jsp) (64 bit)
 * [Minecraft](https://minecraft.net/en-us/) 1.12.2
-* [Forge 14.23.1.2587](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
+* [Forge 14.23.1.2611](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 * 4gb+ of ram dedicated to minecraft
 
 ### Installing
@@ -28,28 +28,28 @@ At the time of writing, this pack is pregenerated for installation with [MultiMC
 ## Mod List
 
 
-* [Actually Additions r128](https://minecraft.curseforge.com/projects/actually-additions)
+* [Actually Additions r131](https://minecraft.curseforge.com/projects/actually-additions)
 * Actually Baubles 1.1
 * AI Improvements 0.0.1b1
 * Akashic Tome 1.2-10
-* Ambient Sounds 2.2.1
-* Animania 1.4.4
-* Astral Sorcery 1.8.4
-* AutoReg Library
+* Ambient Sounds 2.2.3
+* Animania 1.4.6
+* Astral Sorcery 1.8.5
+* AutoReg Library 1.2-15
 * Bad Wither No Cookie 2.12
-* B.A.S.E. Library 3.5.1
+* B.A.S.E. Library 3.6.1
 * Baubles 1.5.2
-* Bed Patch 1.0
+* Bed Patch 2.2
 * Better Builders Wands 0.11.1.245
 * Better Foliage 2.1.10
 * Better FPS 1.4.8
-* Biomes O Plenty 7.0.1.2313
+* Biomes O Plenty 7.0.1.2322
 * Block Drops 1.4.0
-* Bonsai Trees 1.0.1-b56
-* Botania 1.10.r352
+* Bonsai Trees 1.0.3-b67
+* Botania 1.10.r353
 * Ceramics 1.3.3b
-* Chisel 0.1.1.26
-* Clean View v1
+* Chisel 0.2.1.31
+* Clean View v1a
 * Clumps 3.0.0
 * CodeChickenLib 3.1.5.331
 * COFHCore 4.3.10.5
@@ -58,13 +58,13 @@ At the time of writing, this pack is pregenerated for installation with [MultiMC
 * Cooking For Blockheads 6.3.17
 * Crafting Tweaks 8.1.6
 * CraftStudio Library 1.0.0.93
-* CraftTweaker 2 4.1.0
+* CraftTweaker 2 4.1.5
 * Connected Textures Mod 0.2.3.12
 * Custom Backgrounds 1.1.1
 * Custom Main Menu 2.0.8
 * Custom Starting Gear 1.2.0.9
 * Dirt 2 Path 1.7.0
-* Dynamic Surroundings 3.4.8.4
+* Dynamic Surroundings 3.4.9.6
 * Lapis Stays in Enchanting Table 1.1.2
 * Ender Storage 2.4.2.126
 * Ender Zoo 1.4.0.49
@@ -139,9 +139,9 @@ I try my best to use [SemVer](http://semver.org/) for versioning. For the versio
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Full thanks to team's whose mods are used
+* Mojang
+
 
 
 ##Contact
