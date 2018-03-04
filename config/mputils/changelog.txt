@@ -1,34 +1,23 @@
-Version 0.7.0
+
+
+Version 0.8.0
 
 Add:
-* EnhancedVisuals
-* MPUtils
-* MPBasic
-* Smooth Font
+* Primitive Mobs 1.1.6b (readded)
+* Familiar Fauna 1.0.0
+* FastWorkbench
+* Nature's Compass
 
-Updated:
-* Actually Additions r131
-* Ambient Sounds 2.2.3
-* Animania 1.4.6
-* Base 3.6.1
-* Bedpatch 2.2
-* Bonsai Trees 1.0.3 b67
-* Chisel & Bits 14.13
-* CleanView v1a
-* CraftTweaker 4.1.5
-* Dynamic surroundings 3.4.9.5.
-* Extra Utilities 2 1.7.4
-* FoamFix-Anarchy 0.9.3
-* FenceJumper 1.0.3.
-* Immersive Engineering 77
-* Immersive Tech 1.3.5.
-* Inspirations 0.1.2.
-* Jei 147
-* Mcjtylib 2.6.4.
-* Openblocks 1.7.6.
-* Placebo 1.2.0.
-* Plants
-* Rftools 7.29.
-* Toast control 1.3.1.
-* Tinkers Construct 65
-* Forge 2611
+Update:
+* Biomes O’Plenty 7.0.1.2322
+* Chisels & Bits 14.14
+* Dynamic Surroundings 3.4.9.6.
+* Industrial Craft 2 - 2.8.62-ex112
+* Just Enough Items 4.8.5.159
+* Mod Tweaker 4.0.7
+* MTLib 3.0.2
+* Placebo 1.3.0
+* Plants 2.6.3
+* Smooth Font v1.10
+* Toast Control 1.4.0.
+
