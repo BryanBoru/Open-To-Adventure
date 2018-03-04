@@ -68,7 +68,9 @@ At the time of writing, this pack is pregenerated for installation with [MultiMC
 * [Ender Storage](https://minecraft.curseforge.com/projects/ender-storage-1-8) 2.4.2.126
 * [Ender Zoo](https://minecraft.curseforge.com/projects/ender-zoo) 1.4.0.49
 * [Extra Utilities](https://minecraft.curseforge.com/projects/extra-utilities) 2 1.7.2
+* [Familiar Fauna](https://minecraft.curseforge.com/projects/familiar-fauna) 1.0.2
 * [Farseek](https://minecraft.curseforge.com/projects/farseek) 2.2.3
+* [FastWorkbench](https://minecraft.curseforge.com/projects/fastworkbench) 1.2.0
 * [Fence Jumper Mod](https://minecraft.curseforge.com/projects/fence-jumper) 1.0.2
 * [FoamFix](https://unascribed.com/foamfix/) 0.8.3 Lawful
 * [Food Expansion](https://minecraft.curseforge.com/projects/food-expansion) 1.3.2
@@ -90,10 +92,14 @@ At the time of writing, this pack is pregenerated for installation with [MultiMC
 * [Just Enough Resources](https://minecraft.curseforge.com/projects/just-enough-resources-jer) 0.8.5.27
 * [Lapis Stays in Enchanting Table](https://minecraft.curseforge.com/projects/lapis-stays-in-the-enchanting-table) 1.1.2
 * [LLibrary](https://minecraft.curseforge.com/projects/llibrary) 1.7.9
+* [MagmaMonsters](https://minecraft.curseforge.com/projects/magma-monsters) 0.3.0
+* [MalisisCore](https://minecraft.curseforge.com/projects/malisiscore) 6.4.0
+* [MalisisDoors](https://minecraft.curseforge.com/projects/malisisdoors) 7.3.0
 * [Mantle](https://minecraft.curseforge.com/projects/mantle) 1.3.1.21
 * [McJtyLib](https://minecraft.curseforge.com/projects/mcjtylib) 2.6.5
 * [Mod Name Tooltip](https://minecraft.curseforge.com/projects/mod-name-tooltip) 1.10.0
 * [Mod Tweaker](https://minecraft.curseforge.com/projects/modtweaker) 4.0.7
+* [MalisisCore](https://minecraft.curseforge.com/projects/malisiscore) 
 * [Morpheus](https://minecraft.curseforge.com/projects/morpheus) 3.3.2
 * [Morph-o-Tool](https://minecraft.curseforge.com/projects/morph-o-tool) 1.12-16
 * [Mouse Tweaks](https://minecraft.curseforge.com/projects/mouse-tweaks) 2.8
