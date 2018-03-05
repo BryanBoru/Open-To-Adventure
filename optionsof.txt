@@ -56,7 +56,7 @@ ofShowCapes:true
 ofNaturalTextures:true
 ofEmissiveTextures:true
 ofLazyChunkLoading:true
-ofDynamicFov:false
+ofDynamicFov:true
 ofAlternateBlocks:true
 ofDynamicLights:1
 ofScreenshotSize:1
