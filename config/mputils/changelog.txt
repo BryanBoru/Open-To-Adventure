@@ -3,10 +3,13 @@
 Version 0.8.0
 
 Add:
+* Familiar Fauna 1.0.2
+* FastWorkbench 1.2.0
+* MagmaMonsters 0.3.0
+* MalisisCore 6.4.0
+* MalisisDoors 7.3.0
+* Nature's Compass 1.5.1
 * Primitive Mobs 1.1.6b (readded)
-* Familiar Fauna 1.0.0
-* FastWorkbench
-* Nature's Compass
 
 Update:
 * Biomes O’Plenty 7.0.1.2322
