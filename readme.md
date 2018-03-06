@@ -147,7 +147,7 @@ At the time of writing, this pack is pregenerated for installation with [MultiMC
 
 ## Versioning
 
-I try my best to use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BryanBoru/Open-To-Adventure/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BryanBoru/Open-To-Adventure/tags).
 
 ## Acknowledgments
 
