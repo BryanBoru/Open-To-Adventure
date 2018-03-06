@@ -2,10 +2,6 @@
 
 Focused on exploration and enjoyment of those unique finds in the wilderness. This 1.12.2 Modpack of Minecraft focuses on Magic and adventuring tools, also allows for some tech experimentation.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 * [Java 8](https://www.java.com/en/download/manual.jsp) (64 bit)
 * [Minecraft](https://minecraft.net/en-us/) 1.12.2
