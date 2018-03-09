@@ -1,6 +1,5 @@
 
-
-Version 0.8.0
+§lVersion 0.8.0§0
 
 Add:
 * Familiar Fauna 1.0.2
@@ -9,7 +8,7 @@ Add:
 * MalisisCore 6.4.0
 * MalisisDoors 7.3.0
 * Nature's Compass 1.5.1
-* Primitive Mobs 1.1.6b (readded)
+* Primitive Mobs 1.1.6b
 
 Update:
 * Biomes O’Plenty 7.0.1.2322
@@ -24,3 +23,4 @@ Update:
 * Smooth Font v1.10
 * Toast Control 1.4.0.
 
+§l§oJoin Our Discord: §e§l§ohttps://discord.gg/xvtCXe4§0
