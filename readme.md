@@ -12,7 +12,7 @@ Focused on exploration and enjoyment of those unique finds in the wilderness. Th
 
 At the time of writing, this pack is pregenerated for installation with [MultiMC](https://github.com/MultiMC/MultiMC5).
 
-* Download latest release .zip file
+* Download [latest release](https://github.com/BryanBoru/Open-To-Adventure/releases) .zip file
 * Goto MultiMC Main Menu
 * `Create Instance`
 * select `Import Modpack`
