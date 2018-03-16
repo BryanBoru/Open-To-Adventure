@@ -1,3 +1,6 @@
+![version](https://img.shields.io/badge/Minecraft-1.12.2-green.svg) [![GitHub forks](https://img.shields.io/badge/Discord-Join-blue.svg)](https://discord.gg/432Jhd4)
+
+
 ![title](https://i.gyazo.com/8ccd64269809315663b8b6e2aa3bddc1.png)
 
 Focused on exploration and enjoyment of those unique finds in the wilderness. This 1.12.2 Modpack of Minecraft focuses on Magic and adventuring tools, also allows for some tech experimentation.
